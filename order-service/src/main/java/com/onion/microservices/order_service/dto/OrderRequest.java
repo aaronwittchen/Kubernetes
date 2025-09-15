@@ -7,5 +7,9 @@ public record OrderRequest(
     String price,
     Integer quantity
 ) {
-    
+    public record UserDetails(
+        String email,
+        String firstName,
+        String lastName
+    ) {}   
 }
