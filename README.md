@@ -48,6 +48,9 @@ spring cloud gateway
 functional endpoints
 now we can use localhost:9000 routes
 keycloak
+http://localhost:8181/
+Capability config
+Client authentication Off
 
 swagger openapi
 http://localhost:8080/swagger-ui/index.html
